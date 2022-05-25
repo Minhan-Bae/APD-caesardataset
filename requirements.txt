@@ -1,3 +1,4 @@
 scipy
 open3d
 maturin
+vedo
