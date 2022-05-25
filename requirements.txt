@@ -1,0 +1,3 @@
+scipy
+open3d
+maturin

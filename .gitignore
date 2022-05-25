@@ -1,0 +1,5 @@
+# ignore dataset
+caesar/*
+
+# ignore .json format
+*.json
